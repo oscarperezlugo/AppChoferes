@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KY2F1QuSHjJdB6MyXPw6/vfnv1LxwMCJV/CuL3nfe38OfOUDZEodUVreFvPkVXF/q6qjk9KGcymwdkHSzB8jHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar\\source\\repos\\AppChoferes\\AppChoferes.iOS\\AppChoferes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
